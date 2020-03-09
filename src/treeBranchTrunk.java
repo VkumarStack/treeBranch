@@ -4,5 +4,6 @@ public class treeBranchTrunk
     {
         System.out.println("The trees are in bloom");
         System.out.println("MrBeast planted 20,000,000 trees");
+        System.out.println("There are many types of trees");
     } // end main method
 } // end driver class
